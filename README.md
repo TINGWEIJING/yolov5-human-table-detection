@@ -1,4 +1,4 @@
-# Yolo
+# Yolov5 Human Table Detection
 ## Quick Run
 ### Create Python `venv`
 ```bash
